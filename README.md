@@ -9,3 +9,5 @@ Open a new terminal
 
 cd flutter_stage
 flutter run -d edge --no-sound-null-safety --web-renderer=html
+
+..
